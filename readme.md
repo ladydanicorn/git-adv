@@ -1,6 +1,6 @@
 # git/github setup
 
-The role of this blah blah blah *git/github*
+The role of this blah blah blah **git/github**
 
 ## Getting Started
 
